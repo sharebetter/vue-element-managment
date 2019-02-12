@@ -12,7 +12,7 @@ npm install
 npm run serve
 ```
 
-### 项目截图：
-![后台管理系统](https://github.com/sharebetter/vue-element-managment/blob/master/itemImgs/manage3.png)
+### 项目截图（仅完成小部分）：
+![后台管理系统](https://github.com/sharebetter/vue-element-managment/blob/master/itemImage/itemImage1.jpg)
 
-![后台管理系统](https://github.com/sharebetter/vue-element-managment/blob/master/itemImgs/manage3.png)
+![后台管理系统](https://github.com/sharebetter/vue-element-managment/blob/master/itemImage/itemImage2.jpg)
